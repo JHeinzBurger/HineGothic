@@ -1,0 +1,2 @@
+# HineGothic
+Gothic Dictionary App
